@@ -1,0 +1,16 @@
+D:\R&D\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\AzureMessagingServiceBus.csproj.CoreCompileInputs.cache
+D:\R&D\AzureMessagingServiceBus\Binaries\KPMG.Platform.AzureMessagingServiceBus.Library.dll.config
+D:\R&D\AzureMessagingServiceBus\Binaries\KPMG.Platform.AzureMessagingServiceBus.Library.dll
+D:\R&D\AzureMessagingServiceBus\Binaries\KPMG.Platform.AzureMessagingServiceBus.Library.pdb
+D:\R&D\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\AzureMessagingServiceBus.csproj.CopyComplete
+D:\R&D\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\KPMG.Platform.AzureMessagingServiceBus.Library.dll
+D:\R&D\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\KPMG.Platform.AzureMessagingServiceBus.Library.pdb
+D:\R&D\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\AzureMessagingServiceBus.csprojAssemblyReference.cache
+D:\GitRepo\AzureMessagingServiceBus\Binaries\Prabhash.Platform.AzureMessagingServiceBus.Library.dll.config
+D:\GitRepo\AzureMessagingServiceBus\Binaries\Prabhash.Platform.AzureMessagingServiceBus.Library.dll
+D:\GitRepo\AzureMessagingServiceBus\Binaries\Prabhash.Platform.AzureMessagingServiceBus.Library.pdb
+D:\GitRepo\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\AzureMessagingServiceBus.csprojAssemblyReference.cache
+D:\GitRepo\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\AzureMessagingServiceBus.csproj.CoreCompileInputs.cache
+D:\GitRepo\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\AzureMessagingServiceBus.csproj.CopyComplete
+D:\GitRepo\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\Prabhash.Platform.AzureMessagingServiceBus.Library.dll
+D:\GitRepo\AzureMessagingServiceBus\AzureMessagingServiceBus\obj\Debug\Prabhash.Platform.AzureMessagingServiceBus.Library.pdb
